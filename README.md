@@ -22,3 +22,9 @@ You are also required to test the functioning of the processor by implementing `
 After completing the implementation, push it to github and share the link via email to `xavier@novek.io`
 
 For any questions and clarifications, feel free to contact me via email.
+
+Results
+
+<img width="872" alt="fvd" src="https://user-images.githubusercontent.com/33089347/202672164-4919f680-2a76-4ff3-aa7a-40a68b6434f2.PNG">
+
+
